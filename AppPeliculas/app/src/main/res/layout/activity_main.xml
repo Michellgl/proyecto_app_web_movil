@@ -35,7 +35,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Ingresar"
-        android:backgroundTint="#1976D2"
+        android:backgroundTint="#040157"
         android:textColor="#FFFFFF"/>
 
 </LinearLayout>
